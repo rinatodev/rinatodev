@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Rinato
 
-<!--
-**rinatodev/rinatodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently **building indie apps** to escape the 9–5.
 
-Here are some ideas to get you started:
+**Goal**: $1M in revenue by Dec 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building in public on [X (Twitter)](https://x.com/rinatodev)
+
+---
+
+## 🚀 Now shipping
+
+Coming soon 🔜
+
+---
+
+## 📬 Follow the journey
+
+I share my process, failures, launches and lessons in public.  
+Join me on [X (Twitter)](https://x.com/rinatodev) or get updates via [rinato.xyz](https://rinato.xyz)
+
+> **Build to break free.**
